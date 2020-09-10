@@ -1,8 +1,4 @@
-const { exportAllDeclaration } = require("@babel/types");
-
-const {
-    tvRemote
-}
+const { tvRemote } = require("../src/tvRemote");
 
 describe("Sample Tests", () => {
 
