@@ -1,0 +1,25 @@
+{
+    "name": "tr_pair_manoj_codewars_tv_remote",
+    "version": "1.0.0",
+    "description": "A repository of codewars tvRemote challenge.",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest",
+      "eslint": "eslint ./"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chiwong08/tr_pair_manoj_codewars_tv_remote.git"
+    },
+    "keywords": [],
+    "author": "Tech Returners",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/chiwong08/tr_pair_manoj_codewars_tv_remote/issues"
+    },
+    "homepage": "https://github.com/chiwong08/tr_pair_manoj_codewars_tv_remote#readme",
+    "devDependencies": {
+      "eslint": "^6.8.0",
+      "jest": "^25.2.4"
+    }
+  }
